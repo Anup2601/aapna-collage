@@ -2,6 +2,7 @@
     width: 100px;
     height: 100px;
     background: green;
+    transition: 2s;
   }
   
   #box1:hover {
